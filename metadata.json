@@ -1,0 +1,7 @@
+{
+  "name": "Smart Dice Controller",
+  "description": "A web-based controller for the ESP32 Smart Digital Dice. Connect via Bluetooth to roll the dice, play various mini-games, and track scores in real-time.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
